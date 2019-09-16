@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706666319365",
+    "firebase_url": "https://joshbillionz.firebaseio.com",
+    "project_id": "joshbillionz",
+    "storage_bucket": "joshbillionz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706666319365:android:5c2d569a8dd1aceae4d66c",
+        "android_client_info": {
+          "package_name": "com.codebillionz.android.joshbillionz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706666319365-a79p3gkfitq9j4f3gq0uql7ej119fosc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebillionz.android.joshbillionz",
+            "certificate_hash": "40ac488361489b2a216a3665eeb09d736275fdac"
+          }
+        },
+        {
+          "client_id": "706666319365-il9pb9aqiog2j3q3gomq9dbp2oss9ms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybSvUD9Aozxnu9B9zuFRMUC7c8fMj7xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706666319365-il9pb9aqiog2j3q3gomq9dbp2oss9ms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
